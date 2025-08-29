@@ -1,0 +1,15 @@
+AxionOS 2.0 BETA 3
+Build Date : 29/08/2025
+
+- Initial A16 BETA Official release
+- Leica and Dolby included
+- Adapt tree side A16 chnages
+- Switch to Display Features
+- Define axion CPU cores
+- Enable axion governor and set to schedutil
+- REAPPLY powerhint and libperf changes
+- Powerhint: Set efficient freq for FIXED_PERFORMANCE hint
+- Powerhint: Remove big cpu core boosting
+- Powerhint: Define supprted values
+- Add 32bit app support
+- Misc chnages
