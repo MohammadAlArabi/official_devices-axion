@@ -1,3 +1,23 @@
+AxionOS 2.0 BETA 4
+Build Date : 24/09/2025
+
+- Fixed KProfile issues 
+- Fixed NFC config location
+- Implement Torchlight control
+- Torchlight control: Set safe values
+- audio: Remove dynamic attributes from APS config
+- audio: Extend buffer size to 256kb for offload playback
+- Drop legacy ANT remnants
+- Remove deprecated config_mobile_tcp_buffers/networkAttributes
+- Drop depricated axion cpu flags (meanwhile: now you can tweak cpu boosts from settings > special features > experimental features > performance)
+- Add webview pinning and set convenient value
+- Drop obsolete HBM codes
+- Allow camera ID 2 for Aperture
+- Enable support for kernel idle timer
+- Set surface flinger min uclamp to ~20% and max to ~100%
+- Set sched top app min uclamp to ~25% and max to ~100%
+- Attempt to fix FOD enrollment misplacement issues in the initial setup wizard for GMS builds
+
 AxionOS 2.0 BETA 3
 Build Date : 29/08/2025
 
